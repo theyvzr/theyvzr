@@ -10,13 +10,6 @@ Property | Data
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=theyvzr&hide_border=true&theme=redical)
 
- Stats | Most Used
---- | --- 
-![theyvzr's github stats](https://github-readme-stats.vercel.app/api?username=theyvzr&show_icons=true&theme=radical&include_all_commits=true) | ![theyvzr's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theyvzr&theme=radical&layout=compact)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theyvzr"></img>
-
-
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/theyvzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/theyvzr/theyvzr/master/assets/twitter.svg" alt="theyvzr" height="30" width="30" /></a>
