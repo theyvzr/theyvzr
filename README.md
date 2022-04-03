@@ -1,6 +1,6 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tahe+Yavuzer;+Welcome+to+My+Github+Profile!;+I+am+interested+in+DevOps;+Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tahe+Yavuzer;+Welcome+to+My+Github+Profile!;+I+am+currently+developing+myself+in+the+field+of+DevOps;+Always+learning+new+things)](https://git.io/typing-svg)
 
 Property | Data
 --- | --- 
